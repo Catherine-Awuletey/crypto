@@ -1,4 +1,4 @@
-
+https://crypto-bucks.netlify.app/
 
 ### Images of The Crypto Screener Website:
 
